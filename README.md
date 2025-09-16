@@ -21,7 +21,7 @@ private void button2_Click(object sender, EventArgs e)
     label1.Text = "green light";
     pictureBox1.BackColor = Color.Green;
     pictureBox1.BackgroundImage = Properties.Resources._2b3f6ff00db7a1efae21d85cfb8995eaff2da8d8;
-}****
+}
 ```
 <img width="794" height="478" alt="image" src="https://github.com/user-attachments/assets/1f78ee7c-16a0-4f90-b3f8-d9b82e6bbf32" />
 
